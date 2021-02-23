@@ -1,0 +1,20 @@
+.c-pagination-select-size {
+    align-self: center;
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    justify-content: right;
+    margin-right: 3em;
+    order: 1;
+    flex-grow: 1;
+    flex-shrink: 1;
+
+}
+
+.pagination {
+    justify-content: space-between;
+}
+
+.c-select-page-size-label{
+    padding-right: 1em;
+}
